@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">InventoryAppStage2</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Title text for the empty view, which describes the empty data! [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to an item [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Let\'s add some data!</string>
+
+    <string name="error_saving">Error saving entry</string>
+    <string name="saved">Data saved</string>
+    <string name="editor_update_item_failed">Updating item has failed</string>
+    <string name="editor_update_item_successful">Item updated successfully</string>
+    <string name="editor_delete_item_failed">Error with deleting entry</string>
+    <string name="editor_delete_item_successful">Item deleted</string>
+    <string name="enter_details">Please fill in all fields</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this entry?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_phone">Just whoom am I to call?</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overflow menu option that deletes all data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All</string>
+
+    <string name="starship_unknown">Unknown Starship</string>
+    <string name="uss_enterprise">USS Enterprise</string>
+    <string name="romulan_warbird">Romulan Warbird</string>
+    <string name="klingon_bird_of_prey">Klingon Bird Of Prey</string>
+    <string name="borg_cube">Borg Cube</string>
+    <string name="uss_prometheus">USS Prometheus</string>
+
+    <string name="no_stock">We don\'t seem to have any stock</string>
+    <string name="add_ship">Add a new Starship</string>
+    <string name="edit_entry">Edit Ship</string>
+    <string name="starship_type">Starship Type:</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="_1">-1</string>
+    <string name="__1">+1</string>
+    <string name="required">required</string>
+    <string name="supplier">Supplier</string>
+    <string name="phone">Phone</string>
+</resources>

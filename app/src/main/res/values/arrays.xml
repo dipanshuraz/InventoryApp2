@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <!-- These are the options displayed in the drop-down Spinner -->
+        <string-array name="array_ships">
+            <item>@string/starship_unknown</item>
+            <item>@string/uss_enterprise</item>
+            <item>@string/romulan_warbird</item>
+            <item>@string/klingon_bird_of_prey</item>
+            <item>@string/borg_cube</item>
+            <item>@string/uss_prometheus</item>
+        </string-array>
+
+</resources>
